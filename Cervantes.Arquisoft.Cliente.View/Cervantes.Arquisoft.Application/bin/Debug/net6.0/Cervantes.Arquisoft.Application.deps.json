@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cervantes.Arquisoft.Application/1.0.0": {
+        "dependencies": {
+          "Cervantes.Arquisoft.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Cervantes.Arquisoft.Application.dll": {}
+        }
+      },
+      "Cervantes.Arquisoft.Domain/1.0.0": {
+        "runtime": {
+          "Cervantes.Arquisoft.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cervantes.Arquisoft.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cervantes.Arquisoft.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

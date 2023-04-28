@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Cervantes.Arquisoft.Cliente.View",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View\\Models",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View\\Views",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View\\Views\\Client",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View\\wwwroot",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View\\wwwroot\\css",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View\\wwwroot\\js",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Usuario.Persistance",
+    "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Usuario.Persistance\\Interfaces"
+  ],
+  "SelectedNode": "\\Cervantes.Arquisoft.Cliente.View\\Cervantes.Arquisoft.Cliente.View\\Views\\Client\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,38 @@
+﻿@using Cervantes.Arquisoft.View.Models;
+
+@model IEnumerable<ClientViewModel>
+
+@{
+    ViewData["Title"] = "Listado de Clientes";
+}
+
+<h1>Cliente</h1>
+<h5>Descripcion de esta funcion</h5>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Crear Nuevo</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Acciones</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var client in Model)
+    {
+        <tr>
+            <td>
+                <a asp-action="Edit" asp-route-id="@client.Id" class="btn btn-primary">Editar</a>
+                <a asp-action="Delete" asp-route-id="@client.Id" class="btn btn-danger">Eliminar</a>
+            </td>
+            <td>
+                @client.Name
+                @client.Surname
+                @client.Dni
+            </td>
+        </tr>
+
+    }
+    </tbody>
+</table>

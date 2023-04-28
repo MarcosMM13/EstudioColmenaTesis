@@ -1,0 +1,84 @@
+﻿@using Cervantes.Arquisoft.View.Models;
+@model ClientViewModel
+
+@{
+    ViewData["Title"] = "Agregar Cliente";
+}
+
+<h1>Agregar un Cliente</h1>
+<h5>Descripcion de esta funcion</h5>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-action="Create">
+
+    <div class="mb-3">
+        <label for="DNI" class="form-label">DNI</label>
+        <input type="number" class="form-control" asp-for="Dni" placeholder="DNI">
+        <span asp-validation-for="Dni" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="Name" class="form-label">Nombre</label>
+        <input type="text" class="form-control" asp-for="Name" placeholder="Nombre">
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label for="Surname" class="form-label">Apellido</label>
+        <input type="text" class="form-control" asp-for="Surname" placeholder="Apellido">
+        <span asp-validation-for="Surname" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label for="Mail" class="form-label">Mail</label>
+        <input type="email" class="form-control" asp-for="Email" placeholder="Email">
+        <span asp-validation-for="Email" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label for="Telefono" class="form-label">Telefono</label>
+        <input type="number" class="form-control" asp-for="Phone" placeholder="Telefono">
+        <span asp-validation-for="Phone" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label for="Direccion" class="form-label">Direccion</label>
+        <input type="text" class="form-control" asp-for="Address" placeholder="Direccion">
+        <span asp-validation-for="Address" class="text-danger"></span>
+
+    </div>
+
+    <div class="mb-3">
+        <label for="Ciudad" class="form-label">Ciudad</label>
+        <input type="text" class="form-control" asp-for="City" placeholder="Ciudad">
+        <span asp-validation-for="City" class="text-danger"></span>
+
+    </div>
+
+
+    <div class="mb-3">
+        <label for="Pais" class="form-label">Pais</label>
+        <input type="text" class="form-control" asp-for="Country" placeholder="Pais">
+        <span asp-validation-for="Country" class="text-danger"></span>
+
+    </div>
+
+
+    <div class="mb-3">
+        <label for="CodigoPostal" class="form-label">Codigo Postal</label>
+        <input type="text" class="form-control" asp-for="ZipCode" placeholder="Codigo Postal">
+        <span asp-validation-for="ZipCode" class="text-danger"></span>
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Enviar</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancelar</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

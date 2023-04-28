@@ -1,0 +1,17 @@
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.deps.json
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.runtimeconfig.json
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.csproj.AssemblyReference.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.AssemblyInfoInputs.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.AssemblyInfo.cs
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.csproj.CoreCompileInputs.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.csproj.CopyComplete
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\refint\Cervantes.Arquisoft.Usuario.Data.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Data.genruntimeconfig.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\ref\Cervantes.Arquisoft.Usuario.Data.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cervantes.Arquisoft.Cliente.View.props" />
+</Project>

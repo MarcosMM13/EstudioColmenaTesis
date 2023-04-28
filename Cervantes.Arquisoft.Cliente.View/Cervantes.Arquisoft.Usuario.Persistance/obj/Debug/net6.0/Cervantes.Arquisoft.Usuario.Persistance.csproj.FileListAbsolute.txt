@@ -1,0 +1,15 @@
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.deps.json
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.csproj.AssemblyReference.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.AssemblyInfoInputs.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.AssemblyInfo.cs
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.csproj.CoreCompileInputs.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\refint\Cervantes.Arquisoft.Usuario.Persistance.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\ref\Cervantes.Arquisoft.Usuario.Persistance.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Persistance\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Persistance.csproj.CopyComplete

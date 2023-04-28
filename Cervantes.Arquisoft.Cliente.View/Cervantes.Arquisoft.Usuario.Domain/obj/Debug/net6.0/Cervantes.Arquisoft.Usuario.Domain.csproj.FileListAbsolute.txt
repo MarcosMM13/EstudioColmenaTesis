@@ -1,0 +1,12 @@
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.deps.json
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\bin\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.csproj.AssemblyReference.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.AssemblyInfoInputs.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.AssemblyInfo.cs
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.csproj.CoreCompileInputs.cache
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\refint\Cervantes.Arquisoft.Usuario.Domain.dll
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\Cervantes.Arquisoft.Usuario.Domain.pdb
+C:\Desa\Arquisoft\Cervantes.Arquisoft.Cliente.View\Cervantes.Arquisoft.Usuario.Domain\obj\Debug\net6.0\ref\Cervantes.Arquisoft.Usuario.Domain.dll
