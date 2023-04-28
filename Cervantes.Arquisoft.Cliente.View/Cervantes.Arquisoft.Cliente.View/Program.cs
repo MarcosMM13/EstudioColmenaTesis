@@ -8,7 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IClientRepository, ClientRepository>();
-builder.Services.AddTransient<IinformeRepository, InformeRepository>();
 
 builder.Services.AddTransient<IUserService, UserService>();
 
