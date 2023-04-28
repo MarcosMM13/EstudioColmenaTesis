@@ -19,8 +19,4 @@
     <ProjectReference Include="..\Cervantes.Arquisoft.Usuario.Persistance\Cervantes.Arquisoft.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Views\Informe\" />
-  </ItemGroup>
-
 </Project>

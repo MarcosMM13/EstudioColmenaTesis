@@ -19,6 +19,5 @@ namespace Cervantes.Arquisoft.Usuario.Data
         }
 
         DbSet<Client> Clients { get; set; }
-        DbSet<Informe> Informes { get; set; }
     }
 }
